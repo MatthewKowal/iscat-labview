@@ -1,5 +1,5 @@
 # iscat-yolo 
-![EPD-iSCAT Graphical Abstract](https://github.com/MatthewKowal/iscat-labview/blob/main/figures/microscope%20GUI.pdf)
+![EPD-iSCAT Graphical Abstract](https://github.com/MatthewKowal/iscat-labview/blob/main/figures/microscope%20GUI.png)
 
 iscat-yolo is an automated particle detection, localization, and measurement tool for processing raw video from an iSCAT microscope. Video pre-processing utilizes ratiometric imaging to amplify the weak signal from scattering nanoparticles as small as 5 nm while simultaneously subtracting the background and averaging away noise. Fast and facile particle detection is performed using Ultralytics YOLO ver. 8 trained on a annotated particle image dataset built from experimental data. The dataset is publicly available on Roboflow and the trained model is available in the repository. Output is generated in the form of spreadsheets containing particle data, images containing data plots, and processed video data. This work was developed during my PhD in Chemistry at the University of British Columbia in Canada and has been published in ACS Nano in 2024.
 
