@@ -1,5 +1,5 @@
 
-![EPD-iSCAT Graphical Abstract](https://github.com/MatthewKowal/iscat-labview/blob/main/figures/microscope%20gui%20figure.png)
+![EPD-iSCAT Graphical Abstract](https://github.com/MatthewKowal/iscat-labview/blob/main/figures/Microscope%20GUI.png)
 
 ### LabVIEW Graphical User Interface for iSCAT Microscopy
 A graphical user interface (GUI) affords direct user control of the various pieces of hardware required for iSCAT microscope operation. The necessary peripherals perform illumination, detection, stage focusing and file saving, requiring sophisticated and reliable hardware interfacing to work seamlessly throughout high data acquisition rates. A graphical user interface written in LabVIEW facilitates robust user interface control (e.g. buttons, sliders, plotting and imaging) with user-friendly Application Programming interfaces (API) for communication (e.g. USB, serial, networking) with peripheral hardware (e.g. function generators, power supplies, cameras). This work was developed during my PhD in Chemistry at the University of British Columbia in Canada and has been published in ACS Nano in 2024.
